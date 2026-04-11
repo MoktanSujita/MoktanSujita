@@ -1,13 +1,13 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MoktanSujita&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=MoktanSujita&theme=dracula" height="165" /></p>
 
 ---
 
 ## Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MoktanSujita&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MoktanSujita&layout=compact&theme=dracula" />
+
 </p>
