@@ -1,15 +1,6 @@
-## GitHub Stats
+![](https://streak-stats.demolab.com/?user=MoktanSujita&theme=dark&hide_border=false)<br/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MoktanSujita&theme=dracula" height="165" />
-</p>
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=MoktanSujita&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="165" />
-</p>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=MoktanSujita&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 
-## Most Used Languages
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MoktanSujita&layout=compact&theme=dracula" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=MoktanSujita&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
